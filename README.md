@@ -1,5 +1,5 @@
 <h1 align="center">Data and Code Availability</h1>
-<h2 aligne="center">Spectral taxonomy for quartic systems: fundamental clock, parity, and continuum</h2>
+<h3 aligne="center">Spectral taxonomy for quartic systems: fundamental clock, parity, and continuum</h3>
 Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
 
 ## File List

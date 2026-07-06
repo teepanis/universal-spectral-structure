@@ -4,4 +4,4 @@ Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Scienc
 
 ## File List
 1. **taxonomy_supporting_info.ipynb**: Python notebook for the spectral taxonomy paper
-2. **taxonomy_supporting_info.pdf**: PDF version of the above supporting information
+   

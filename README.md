@@ -3,5 +3,5 @@
 Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Science, Naresuan University, Phitsanulok 65000, Thailand.
 
 ## File List
-1. **supporting_info.ipynb**: Python notebook producing the results and figures in the paper
-2. **supporting_info.pdf**: PDF version of the supporting information
+1. **taxonomy_supporting_info.ipynb**: Python notebook for the spectral taxonomy paper
+2. **taxonomy_supporting_info.pdf**: PDF version of the above supporting information
